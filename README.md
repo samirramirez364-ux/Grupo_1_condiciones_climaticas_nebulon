@@ -11,12 +11,12 @@ Medida en grados Celsius
 
 Variable clave para la formación de niebla
 
-💧 HUMEDAD RELATIVA (%)
+💧 HUMEDAD RELATIVA (%)  
 Porcentaje de humedad en el aire
 
 Indicador principal de condiciones favorables
-
-💠 PUNTO DE ROCÍO (°C)
+            
+💠 PUNTO DE ROCÍO (°C)      
 Temperatura a la que el vapor de agua se condensa
 
 Crucial para determinar el potencial de captación
